@@ -1,3 +1,4 @@
+FİNRED CAHTE FC
 🚀 FriendChat
 "Bağlantı kurmanın en samimi yolu."
 FriendChat, arkadaşlarınızla bir araya gelebileceğiniz, topluluklar kurabileceğiniz ve anlık iletişim kurabileceğiniz modern, açık kaynaklı bir mesajlaşma platformudur. Discord'un esnekliğini daha sade ve kullanıcı odaklı bir deneyimle birleştiriyoruz.
